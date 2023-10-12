@@ -1,0 +1,17 @@
+
+.container {
+    text-align: left;
+    padding: 20px;
+}
+
+.textarea-label {
+    font-weight: bold;
+    display: block;
+}
+
+.textarea-input, .textarea-output {
+    width: 50%;
+    height: 150px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
